@@ -1,0 +1,2 @@
+from SHAMM import OLD_CLONER
+OLD_CLONER()
